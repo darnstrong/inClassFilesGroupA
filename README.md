@@ -1,0 +1,2 @@
+# inClassFilesGroupA
+In class files
